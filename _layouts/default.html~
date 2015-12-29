@@ -14,10 +14,10 @@
 			<img src="{{site.baseurl}}/img/TaskAdapterLogo1.png">
 			{% include nav.html %}
 		</header>
-<!-- 		<div id="wrapper"> -->
+	<div id="wrapper">
 
-{{content}}
-	<!-- 	</div> -->
+	{{content}}
+	</div>
 	</div>
 </body>
 </html>

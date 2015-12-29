@@ -7,7 +7,7 @@ wordpress_url: http://www.taskadapter.com/2011/05/31/version-1-0-24-atlassian-ji
 date: '2011-05-31 21:00:00 -0700'
 date_gmt: '2011-05-31 21:00:00 -0700'
 categories:
-- atlassian jira
+- atlassian-jira
 - release
 ---
 <p><br/>
